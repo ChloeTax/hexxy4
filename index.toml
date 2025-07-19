@@ -256,6 +256,11 @@ file = "mods/lanishextendedstaves-1.20.1-1.0.1.jar"
 hash = "6b69ec73bf501d435f293f3e4cbf0cd456edf5e245528efd3b1fc5ff0b8f0977"
 
 [[files]]
+file = "mods/lenient-suggestions.pw.toml"
+hash = "14e0b7b6b172f5f45484ff34f8e5454e2a7d188c107568d64a10c85c9bb0aba6"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a5296cda8cb89c99e40de32ab124700f7a6feb922fb37170c7988422e521c6d8"
 metafile = true
