@@ -1,0 +1,13 @@
+name = "Paragraphs"
+filename = "paragraphs-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iDOOi3yS/versions/3mP4emmk/paragraphs-1.1.0.jar"
+hash-format = "sha1"
+hash = "e0f7babe883700cd5fdcd53c0cd042ce2786dca3"
+
+[update]
+[update.modrinth]
+mod-id = "iDOOi3yS"
+version = "3mP4emmk"
