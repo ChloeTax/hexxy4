@@ -1,5 +1,5 @@
 path,source,comment
-mods/figura-0.1.5+1.20.1-fabric-mc.jar,https://github.com/FiguraMC/Figura/actions/runs/15899240356,for FSB support
+mods/figura-0.1.5+1.20.1-fabric-mc.jar,https://github.com/FiguraMC/Figura/actions/runs/17844512527,"FSB support, collections API"
 mods/complexhex-fabric-1.20.1-0.1.6-beta.jar,https://github.com/kineticneticat/ComplexHex/tree/d433a18,hex complex
 mods/hexical-2.0.0-e0d7ef9.jar,https://github.com/miyucomics/hexical/tree/e0d7ef97501060f69eddfc8dcced1e21807bca4b,
 mods/hexcassettes-2.0.0.jar,https://github.com/miyucomics/hexcassettes/tree/96f829ac9a2fda55d04adcb3e5a1d10ddef11de3,Unreleased overhaul?
