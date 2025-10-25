@@ -1,0 +1,37 @@
+{
+  "name": "complexhex.entry.hexbox",
+  "category": "hexcasting:greatwork",
+  "icon": "complexhex:hexbox",
+  "advancement": "hexcasting:enlightenment",
+  "entry_color": "54398a",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "complexhex.page.hexbox.1"
+    },
+    {
+      "type": "hexcasting:brainsweep",
+      "recipe": "complexhex:hexbox",
+      "text": "complexhex.page.hexbox.hexbox"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "complexhex:inert_record",
+      "text": "complexhex.page.hexbox.inert_record"
+    },
+    {
+      "type": "hexcasting:brainsweep",
+      "recipe": "complexhex:quenched_record",
+      "text": "complexhex.page.hexbox.quenched_record"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "complexhex.page.hexbox.2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "complexhex.page.hexbox.3"
+    }
+  ]
+}
