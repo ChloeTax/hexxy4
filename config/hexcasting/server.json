@@ -4,10 +4,12 @@
   "maxSpellCircleLength": 1024,
   "actionDenyList": [
     "hexal:tick",
+    "hexal:gate/close",
     "hexstruction:save_structure"
   ],
   "circleActionDenyList": [
     "hexal:tick",
+    "hexal:gate/close",
     "hexstruction:save_structure"
   ],
   "greaterTeleportSplatsItems": true,
