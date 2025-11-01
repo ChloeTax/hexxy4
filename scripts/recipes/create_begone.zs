@@ -25,6 +25,7 @@ stoneCutter.addRecipe("hexxycraft/hex_sheet_iron", <item:create:iron_sheet>, <it
 stoneCutter.addRecipe("hexxycraft/hex_sheet_gold", <item:create:golden_sheet>, <item:minecraft:gold_ingot>); //Why is it Golden, not Gold
 stoneCutter.addRecipe("hexxycraft/hex_sheet_copper", <item:create:copper_sheet>, <item:minecraft:copper_ingot>);
 stoneCutter.addRecipe("hexxycraft/hex_sheet_brass", <item:create:brass_sheet>, <item:create:brass_ingot>);
+stoneCutter.addRecipe("hexxycraft/hex_cardboard", <item:create:cardboard>, <item:create:pulp>);
 
 craftingTable.addShapeless("hexxycraft/hex_brass_ingot", <item:create:brass_ingot>,
  [<item:minecraft:copper_ingot>, <item:create:zinc_ingot>]
@@ -36,6 +37,10 @@ craftingTable.addShapeless("hexxycraft/hex_sturdy_sheet", <item:create:sturdy_sh
 
 craftingTable.addShapeless("hexxycraft/hex_mek", <item:create:precision_mechanism>, 
  [<item:create:golden_sheet>, <item:create:cogwheel>, <item:create:large_cogwheel>]
+);
+
+craftingTable.addShapeless("hexxycraft/hex_pulp", <item:create:pulp> * 2,
+ [<tag:items:create:pulpifiable>, <tag:items:create:pulpifiable>, <tag:items:create:pulpifiable>, <tag:items:create:pulpifiable>, <tag:items:create:pulpifiable>, <tag:items:create:pulpifiable>, <tag:items:create:pulpifiable>, <tag:items:create:pulpifiable>, <item:minecraft:water_bucket>]
 );
 
 // Foods!
