@@ -1,0 +1,13 @@
+name = "mediatransport"
+filename = "mediatransport-fabric-1.1.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qpgr9JmM/versions/VGxwL4Hr/mediatransport-fabric-1.1.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "7758a3f7308abee094dd87846bef54f57afe564a9bed54d9dff78c97d2037f9250adee1044f7c70bdc9740091c638f8f57bd27fa2e16f21fed2ad1afe4781dbe"
+
+[update]
+[update.modrinth]
+mod-id = "Qpgr9JmM"
+version = "VGxwL4Hr"
