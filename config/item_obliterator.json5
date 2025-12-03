@@ -25,6 +25,7 @@
     "create:mechanical_plough",
     "create:mechanical_crafter",
     "create:mechanical_drill",
+    "create:stock_ticker",
     "create:millstone",
     "create:dough",
     "supplementaries:doormat",
