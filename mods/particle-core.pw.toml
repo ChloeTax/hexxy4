@@ -1,18 +1,18 @@
 name = "Particle Core"
-filename = "particle_core-0.2.6+1.20.1.jar"
+filename = "particle_core-0.3.3+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RSeLon5O/versions/FvOkF1f8/particle_core-0.2.6%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/RSeLon5O/versions/6es9W10B/particle_core-0.3.3%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "9eb2c47ef4141d01cb14aa2a0f8d7b727b367a3d"
+hash = "d4ae5e3b9583106782e2bb009ff3d426f381f493"
 
 [update]
 [update.modrinth]
 mod-id = "RSeLon5O"
-version = "FvOkF1f8"
+version = "6es9W10B"
 
 [option]
 optional = true
-default = true
 description = "improves particle rendering and lets you set particle render percentages per particle"
+default = true

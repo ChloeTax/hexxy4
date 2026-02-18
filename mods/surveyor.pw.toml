@@ -1,18 +1,17 @@
 name = "Surveyor Map Framework"
-filename = "surveyor-0.6.26+1.20.jar"
+filename = "surveyor-1.2.1+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4KjqhPc9/versions/He3qmLL0/surveyor-0.6.26%2B1.20.jar"
-hash-format = "sha512"
-hash = "7df85a1cea4552b37ddd07032136b4a1d6bafb8e0240b0ab5175712a07a02843f537aefda33dfb49f4b7b5e064361dca86bbeb01a410b6edc0c44b4e5d6c42a0"
+url = "https://cdn.modrinth.com/data/4KjqhPc9/versions/4wx21qLz/surveyor-1.2.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "1d189599951a33416f3b1570378381fcc92bdac6"
 
 [update]
 [update.modrinth]
 mod-id = "4KjqhPc9"
-version = "He3qmLL0"
+version = "4wx21qLz"
 
 [option]
 optional = true
-default = false
 description = "for Antique Atlas enjoyers"

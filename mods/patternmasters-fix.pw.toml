@@ -1,0 +1,13 @@
+name = "Patternmaster's Fix"
+filename = "patternmasters-fix-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TefOf4b4/versions/HrOAQB5t/patternmasters-fix-fabric-1.0.0.jar"
+hash-format = "sha1"
+hash = "be1bc32da290d8b7483fbcde690e5ab2ebb835ee"
+
+[update]
+[update.modrinth]
+mod-id = "TefOf4b4"
+version = "HrOAQB5t"

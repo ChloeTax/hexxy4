@@ -1,18 +1,18 @@
 name = "AppleSkin"
-filename = "appleskin-fabric-mc1.20.1-2.5.1.jar"
+filename = "appleskin-fabric-mc1.20.1-2.5.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar"
+url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/N5XeV21r/appleskin-fabric-mc1.20.1-2.5.2.jar"
 hash-format = "sha1"
-hash = "d0f11243f79c071416bbcee781ae93eb57a0283c"
+hash = "f859bb13130788ae2dc2e76a9c80c89e4bbbef5f"
 
 [update]
 [update.modrinth]
 mod-id = "EsAfCjCV"
-version = "xcauwnEB"
+version = "N5XeV21r"
 
 [option]
 optional = true
-default = true
 description = "shows how much food items are worth"
+default = true
