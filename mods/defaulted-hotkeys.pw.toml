@@ -1,13 +1,13 @@
 name = "Defaulted Hotkeys"
-filename = "DefaultedHotkeys-2.0-1.20.1-fabric.jar"
+filename = "defaulted_hotkeys-2.1.1-1.20.4-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fE4Yg12d/versions/shscdcr0/DefaultedHotkeys-2.0-1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/fE4Yg12d/versions/br3f86Ea/defaulted_hotkeys-2.1.1-1.20.4-fabric.jar"
 hash-format = "sha1"
-hash = "892fd9f667ff14c3b0315c4c325797ec3cbabd85"
+hash = "00a347fa3b166691addc6fda4d57abf5a2def303"
 
 [update]
 [update.modrinth]
 mod-id = "fE4Yg12d"
-version = "shscdcr0"
+version = "br3f86Ea"

@@ -1,16 +1,16 @@
 name = "Distant Horizons"
-filename = "DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar"
+filename = "DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/HSc151Xv/DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar"
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/lC6CwqPp/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar"
 hash-format = "sha1"
-hash = "89fd2d00de842579e41efa9fe6a87f67dd99a113"
+hash = "ce3814dd5971edda4d04c3a42ef0df5c6cf8e10d"
 
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"
-version = "HSc151Xv"
+version = "lC6CwqPp"
 
 [option]
 optional = true

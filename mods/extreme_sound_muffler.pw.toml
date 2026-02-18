@@ -1,18 +1,18 @@
 name = "Extreme sound muffler"
-filename = "ExtremeSoundMuffler-3.49.1-fabric-1.20.1.jar"
+filename = "ExtremeSoundMuffler-3.51-fabric-1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/6lDRgX2g/ExtremeSoundMuffler-3.49.1-fabric-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/G2IPOBt4/ExtremeSoundMuffler-3.51-fabric-1.20.1.jar"
 hash-format = "sha1"
-hash = "099d2a64f019a73f2c03f4cd2d9c9e8cc42976d1"
+hash = "333a5be61046d093dc7b8f59866e161c2349472a"
 
 [update]
 [update.modrinth]
 mod-id = "5IIKsxiL"
-version = "6lDRgX2g"
+version = "G2IPOBt4"
 
 [option]
 optional = true
-default = true
 description = "lets you mute/change the volume of individual sounds in the game, you can even have it do things in specific areas, so you could mute a specific spell circle for example"
+default = true

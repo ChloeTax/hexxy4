@@ -1,13 +1,13 @@
 name = "Caduceus"
-filename = "caduceus-fabric-0.1.1+1.20.1.jar"
+filename = "caduceus-fabric-0.2.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q6Hj9z4p/versions/fmy8C27T/caduceus-fabric-0.1.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Q6Hj9z4p/versions/54zQVQEI/caduceus-fabric-0.2.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "09a6d8b5220520f4ba5ebf697a4ff081c019fee3"
+hash = "3e3e44cd1faf72d6df2c94923a3b0ffb7be85cd3"
 
 [update]
 [update.modrinth]
 mod-id = "Q6Hj9z4p"
-version = "fmy8C27T"
+version = "54zQVQEI"
