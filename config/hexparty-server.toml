@@ -1,0 +1,8 @@
+["Hexparty Configs"]
+    #A list of filtered addresses which HTTP requests and the like can't (by default) reach!
+    #Do note, these are regex patterns, so get creative!
+    "Address Filters" = ["127\\.0\\.0\\.1"]
+    #Whether or not the filter list is a whitelist instead of a blacklist.
+    "Filter Whitelist" = false
+    #The base url that http requests are appended to.
+    "Copyparty URL" = "http://copyparty2.chloes.media/"
