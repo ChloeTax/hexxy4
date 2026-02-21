@@ -1,7 +1,7 @@
 name = "hexparty"
-filename = "hexparty-fabric-1.1.1.jar"
+filename = "hexparty-fabric-1.1.2.jar"
 
 [download]
-url = "https://github.com/c-Caelum/HexParty/releases/download/1.1.1/hexparty-fabric-1.1.1.jar"
+url = "https://github.com/c-Caelum/HexParty/releases/download/1.1.2/hexparty-fabric-1.1.2.jar"
 hash-format = "sha256"
-hash = "5813b42d50319e3317d47f14575ab5ae0841673e3f4e7c4002ec7eb7cfe543d1"
+hash = "0d637cba634fe29a2396e5a6d3b9ae7a29dbb105706ead805004adf514c6a4f5"
