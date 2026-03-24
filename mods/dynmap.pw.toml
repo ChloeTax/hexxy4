@@ -1,8 +1,0 @@
-name = "dynmap"
-filename = "Dynmap-3.7-beta-6-fabric-1.20.jar"
-side = "server"
-
-[download]
-url = "https://cdn.modrinth.com/data/fRQREgAc/versions/IIQSYMHC/Dynmap-3.7-beta-6-fabric-1.20.jar"
-hash-format = "sha256"
-hash = "883b67412173464bda68d1abe818e6e046dd250641d2eef926988f4ecac5fa2b"

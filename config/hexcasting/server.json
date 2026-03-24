@@ -3,10 +3,12 @@
   "maxOpCount": 100000,
   "maxSpellCircleLength": 20000,
   "actionDenyList": [
-    "hexal:tick"
+    "hexal:tick",
+    "hexmapping:create_marker/icon"
   ],
   "circleActionDenyList": [
-    "hexal:tick"
+    "hexal:tick",
+    "hexmapping:create_marker/icon"
   ],
   "greaterTeleportSplatsItems": true,
   "villagersOffendedByMindMurder": true,
