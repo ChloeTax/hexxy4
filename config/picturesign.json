@@ -35,8 +35,7 @@
     "https://gist.github.com/",
     "https://www.jsonkeeper.com/",
     "https://api.npoint.io/",
-    "https://api.jsonsilo.com/",
-    "https://copyparty.chloes.media/"
+    "https://api.jsonsilo.com/"
   ],
   "missingImageMode": "BLACK",
   "pictureShader": "PosColTexLight"
