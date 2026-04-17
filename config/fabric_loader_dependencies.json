@@ -3,52 +3,52 @@
     "overrides": {
         "hexal": {
             "depends": {
-                "hexcasting": "0.11.3-7202ed7"
+                "hexcasting": "0.11.3-724c36b"
             }
         },
         "complexhex": {
             "depends": {
-                "hexcasting": "0.11.3-7202ed7"
+                "hexcasting": "0.11.3-724c36b"
             }
         },
         "ephemera": {
             "depends": {
-                "hexal": "0.3.1-821cc54"
+                "hexal": "0.3.1-79db73e"
             }
         },
         "hexchanting": {
             "depends": {
-                "hexcasting": "0.11.3-7202ed7"
+                "hexcasting": "0.11.3-724c36b"
             }
         },
         "hexic": {
             "depends": {
-                "hexal": "0.3.1-821cc54"
+                "hexal": "0.3.1-79db73e"
             }
         },
         "hexportation": {
             "depends": {
-                "hexcasting": "0.11.3-7202ed7"
+                "hexcasting": "0.11.3-724c36b"
             }
         },
         "lessertp": {
             "depends": {
-                "hexcasting": "0.11.3-7202ed7"
+                "hexcasting": "0.11.3-724c36b"
             }
         },
         "hexmapping": {
             "depends": {
-                "hexcasting": "0.11.3-7202ed7"
+                "hexcasting": "0.11.3-724c36b"
             }
         },
         "oneironaut": {
             "depends": {
-                "hexal": "0.3.1-821cc54"
+                "hexal": "0.3.1-79db73e"
             }
         },
         "mediatransport": {
             "depends": {
-                "hexcasting": "0.11.3-7202ed7",
+                "hexcasting": "0.11.3-724c36b",
                 "figura": "0.1.5+1.20.1-fabric-mc-a5f5d5d"
             }
         }
