@@ -21,6 +21,8 @@
 // <tagmanager:iota_type>.addId(<tag:iota_type:hexal:illegal_interworld>, <resource:hexdebug:cognitohazard>);
 // <tagmanager:iota_type>.addId(<tag:iota_type:hexal:illegal_interworld>, <resource:hexical:dye>);
 <tagmanager:iota_type>.addId(<tag:iota_type:hexal:illegal_interworld>, <resource:hexical:pigment>);
+<tagmanager:iota_type>.addId(<tag:iota_type:hexal:illegal_interworld>, <resource:hexmapping:map>);
+<tagmanager:iota_type>.addId(<tag:iota_type:hexal:illegal_interworld>, <resource:hexmapping:marker>);
 <tagmanager:iota_type>.addId(<tag:iota_type:hexal:illegal_interworld>, <resource:hexportation:conduit>);
 <tagmanager:iota_type>.addId(<tag:iota_type:hexal:illegal_interworld>, <resource:hexportation:storageview>);
 <tagmanager:iota_type>.addId(<tag:iota_type:hexal:illegal_interworld>, <resource:hexpose:identifier>);
