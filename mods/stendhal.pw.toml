@@ -1,0 +1,18 @@
+name = "Stendhal"
+filename = "stendhal-1.4.1-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BWloQ9jK/versions/Uj1peBrG/stendhal-1.4.1-1.20.jar"
+hash-format = "sha1"
+hash = "c057dd5c73912e7249c9de4f894c666ef644ff98"
+
+[option]
+optional = true
+default = false
+description = "improves the editing inside books and signs, but conflicts with other modded guis in lecterns"
+
+[update]
+[update.modrinth]
+mod-id = "BWloQ9jK"
+version = "Uj1peBrG"

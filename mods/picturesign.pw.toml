@@ -1,0 +1,13 @@
+name = "PictureSign"
+filename = "picturesign-fabric-2.0.0-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9WP2dmkk/versions/Q6Vuxi2o/picturesign-fabric-2.0.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "ade5f651a34773208f6d95f2e907df442888032e"
+
+[update]
+[update.modrinth]
+mod-id = "9WP2dmkk"
+version = "Q6Vuxi2o"
