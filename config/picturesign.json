@@ -1,0 +1,38 @@
+{
+  "enabled": true,
+  "enableMultimediaSigns": true,
+  "audioDistanceMultiplier": 30,
+  "translucency": false,
+  "fullBrightPicture": false,
+  "helperUi": true,
+  "exceedVanillaLineLength": true,
+  "debug": false,
+  "maxThreads": 4,
+  "signRenderDistance": 64,
+  "safeMode": true,
+  "safeProviders": [
+    "https://i.imgur.com/",
+    "https://i.ibb.co/",
+    "https://pictshare.net/",
+    "https://iili.io/"
+  ],
+  "safeGifProviders": [
+    "https://i.imgur.com/",
+    "https://media.tenor.com/"
+  ],
+  "safeMultimediaProviders": [
+    "https://youtube.com/",
+    "https://www.youtube.com/",
+    "https://youtu.be/",
+    "https://vimeo.com/"
+  ],
+  "safeJsonProviders": [
+    "https://github.com/",
+    "https://gist.github.com/",
+    "https://www.jsonkeeper.com/",
+    "https://api.npoint.io/",
+    "https://api.jsonsilo.com/"
+  ],
+  "missingImageMode": "BLACK",
+  "pictureShader": "PosColTexLight"
+}
