@@ -14,24 +14,29 @@
     "https://i.imgur.com/",
     "https://i.ibb.co/",
     "https://pictshare.net/",
-    "https://iili.io/"
+    "https://iili.io/",
+    "https://copyparty.chloes.media/"
   ],
   "safeGifProviders": [
     "https://i.imgur.com/",
-    "https://media.tenor.com/"
+    "https://media.tenor.com/",
+    "https://media1.tenor.com/",
+    "https://copyparty.chloes.media/"
   ],
   "safeMultimediaProviders": [
     "https://youtube.com/",
     "https://www.youtube.com/",
     "https://youtu.be/",
-    "https://vimeo.com/"
+    "https://vimeo.com/",
+    "https://copyparty.chloes.media/"
   ],
   "safeJsonProviders": [
     "https://github.com/",
     "https://gist.github.com/",
     "https://www.jsonkeeper.com/",
     "https://api.npoint.io/",
-    "https://api.jsonsilo.com/"
+    "https://api.jsonsilo.com/",
+    "https://copyparty.chloes.media/"
   ],
   "missingImageMode": "BLACK",
   "pictureShader": "PosColTexLight"
